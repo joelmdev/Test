@@ -1,1 +1,3 @@
 Im making this change from the cloned repo
+I changed this 
+on two lines from the original repo and committed.
