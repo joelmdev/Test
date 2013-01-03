@@ -1,3 +1,10 @@
 Im making this change from the cloned repo
 I changed this 
+<<<<<<< HEAD
 on two lines from the original repo and committed.
+||||||| merged common ancestors
+on two lines from the original repo and committed.
+=======
+on two lines from the original repo and committed.
+Then I changed another line and committed again.
+>>>>>>> Changed Filefromnewstuff.txt again.
