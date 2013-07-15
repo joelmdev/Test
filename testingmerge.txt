@@ -19,16 +19,7 @@ so is this
 88
 99
 00
-differences after second commit below
-aa
-bb
-cc
-dd
-ee
-ff
-gg
-hh
-ii
+I made changes to master on git2
 jj
 kk
 ll
