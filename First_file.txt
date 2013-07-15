@@ -1,11 +1,1 @@
-I'm the first file. Never been changed.
-Well, now newstuff changed me.
-I'm the first file. AND I GOT CHANGEDWell, now newstuff changed me.
-change on git1
-And a little cleanup.
-And adding more
-asdf
-a change to this file for master branch
-and i changed it again
-
 wtf time for a hotfix
