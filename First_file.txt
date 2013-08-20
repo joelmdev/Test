@@ -1,9 +1,0 @@
-I'm the first file. Never been changed.
-Well, now newstuff changed me.
-And a little cleanup.
-And adding more
-asdf
-a change to this file for master branch
-and i changed it again
-working on dev now
-sorry for the caps
